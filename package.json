@@ -1,5 +1,5 @@
 {
-  "name": "advanced-react-pattern",
+  "name": "compoundcomponent",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
@@ -8,12 +8,12 @@
   "dependencies": {
     "hoist-non-react-statics": "^2.5.5",
     "jest-dom": "^1.5.2",
-    "react": "^16.4.1",
-    "react-dom": "^16.4.1",
+    "react": "17.0.0",
+    "react-dom": "17.0.0",
     "react-loadable": "^5.4.0",
     "react-router": "^4.3.1",
     "react-router-dom": "^4.3.1",
-    "react-testing-library": "^4.1.2",
+    "react-testing-library": "8.0.1",
     "redux": "^4.0.0"
   },
   "devDependencies": {
